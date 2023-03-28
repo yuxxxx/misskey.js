@@ -1,4 +1,4 @@
-import {
+import type {
 	Ad, Announcement, Antenna, App, AuthSession, Blocking, Channel, Clip, DateString, DetailedInstanceMetadata, DriveFile, DriveFolder, Following, FollowingFolloweePopulated, FollowingFollowerPopulated, FollowRequest, GalleryPost, Instance, InstanceMetadata,
 	LiteInstanceMetadata,
 	MeDetailed,
